@@ -1,0 +1,44 @@
+name: تحديث الكوبونات — Couponi Auto-Update
+
+on:
+  schedule:
+    # كل يوم الساعة 6 صباحاً و 6 مساءً (توقيت السعودية = UTC+3)
+    - cron: '0 3 * * *'   # 6:00 AM KSA
+    - cron: '0 15 * * *'  # 6:00 PM KSA
+  workflow_dispatch: # تشغيل يدوي من GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        run: node scraper.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet coupons.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "لا توجد تغييرات جديدة"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "وُجدت كوبونات جديدة!"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "Couponi Bot"
+          git config user.email "bot@couponi.app"
+          git add coupons.json
+          git commit -m "تحديث تلقائي للكوبونات — $(date +'%Y-%m-%d %H:%M')"
+          git push
