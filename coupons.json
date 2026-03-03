@@ -1,0 +1,155 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-03-03",
+  "stores": {
+    "noon": {
+      "name": "نون",
+      "name_en": "Noon",
+      "domain": "noon.com",
+      "coupons": [
+        {
+          "code": "BG642",
+          "discount": "15%",
+          "type": "percentage",
+          "max_discount_sar": 75,
+          "min_order_sar": 0,
+          "description": "15% للجدد / 10% للكل — بدون حد أدنى",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "BG716",
+          "discount": "15%",
+          "type": "cashback",
+          "max_discount_sar": 75,
+          "min_order_sar": 0,
+          "description": "كاش باك 15% على أول طلب",
+          "categories": ["all"],
+          "new_users_only": true,
+          "active": true
+        },
+        {
+          "code": "BG521",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 50,
+          "min_order_sar": 0,
+          "description": "خصم 10% على نون إكسبرس (توصيل سريع)",
+          "categories": ["express"],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "AMR52",
+          "discount": "15%",
+          "type": "cashback",
+          "max_discount_sar": 75,
+          "min_order_sar": 0,
+          "description": "كاش باك 15% على جميع المنتجات",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        }
+      ]
+    },
+    "amazon_sa": {
+      "name": "أمازون السعودية",
+      "name_en": "Amazon.sa",
+      "domain": "amazon.sa",
+      "coupons": [
+        {
+          "code": "SUPER20",
+          "discount": "20%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم 20% لأعضاء Prime — أسبوع التوفير",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "SABRS25",
+          "discount": "25%",
+          "type": "percentage",
+          "max_discount_sar": 120,
+          "min_order_sar": 100,
+          "description": "خصم 25% لأعضاء Prime",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "APP24",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 50,
+          "min_order_sar": 0,
+          "description": "خصم 10% على طلبات التطبيق",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        }
+      ]
+    },
+    "jarir": {
+      "name": "جرير",
+      "name_en": "Jarir",
+      "domain": "jarir.com",
+      "coupons": [
+        {
+          "code": "KSANEW30",
+          "discount": "30%",
+          "type": "percentage",
+          "max_discount_sar": 150,
+          "min_order_sar": 200,
+          "description": "خصم 30% للعملاء الجدد",
+          "categories": ["all"],
+          "new_users_only": true,
+          "active": true
+        }
+      ]
+    },
+    "extra": {
+      "name": "إكسترا",
+      "name_en": "eXtra",
+      "domain": "extra.com",
+      "coupons": [
+        {
+          "code": "BST15",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم 10% على كل الأجهزة والإلكترونيات",
+          "categories": ["electronics"],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "extra10",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم 10% + شحن مجاني فوق 99 ريال",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "SR39",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم 10% على جميع المنتجات",
+          "categories": ["all"],
+          "new_users_only": false,
+          "active": true
+        }
+      ]
+    }
+  }
+}
