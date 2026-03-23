@@ -1,5 +1,5 @@
 {
-  "version": "1.1.41",
+  "version": "1.1.42",
   "last_updated": "2026-03-23",
   "stores": {
     "noon": {
@@ -848,6 +848,32 @@
         },
         {
           "code": "Grid",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على أمازون السعودية",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "TypeFilter",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على أمازون السعودية",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Fltrs",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
