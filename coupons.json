@@ -1,6 +1,6 @@
 {
-  "version": "1.1.42",
-  "last_updated": "2026-03-23",
+  "version": "1.1.43",
+  "last_updated": "2026-03-24",
   "stores": {
     "noon": {
       "name": "نون",
@@ -152,6 +152,19 @@
         },
         {
           "code": "Stats",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "AMR62",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
