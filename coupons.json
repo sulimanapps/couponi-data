@@ -1,6 +1,6 @@
 {
-  "version": "1.1.46",
-  "last_updated": "2026-03-25",
+  "version": "1.1.47",
+  "last_updated": "2026-03-26",
   "stores": {
     "noon": {
       "name": "نون",
@@ -281,7 +281,20 @@
           "active": true
         },
         {
-          "code": "t50",
+          "code": "SIA",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "M10",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -320,20 +333,7 @@
           "active": true
         },
         {
-          "code": "M10",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "SIA",
+          "code": "t50",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -398,19 +398,6 @@
           "active": true
         },
         {
-          "code": "F34",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
           "code": "T74",
           "discount": "10%",
           "type": "percentage",
@@ -425,6 +412,19 @@
         },
         {
           "code": "F35",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "F34",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
