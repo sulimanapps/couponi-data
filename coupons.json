@@ -1,5 +1,5 @@
 {
-  "version": "1.1.63",
+  "version": "1.1.64",
   "last_updated": "2026-04-03",
   "stores": {
     "noon": {
@@ -398,7 +398,7 @@
           "active": true
         },
         {
-          "code": "F34",
+          "code": "T74",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -424,7 +424,7 @@
           "active": true
         },
         {
-          "code": "F18",
+          "code": "F34",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -437,7 +437,7 @@
           "active": true
         },
         {
-          "code": "T74",
+          "code": "F18",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
