@@ -1,6 +1,6 @@
 {
-  "version": "1.1.70",
-  "last_updated": "2026-04-06",
+  "version": "1.1.71",
+  "last_updated": "2026-04-07",
   "stores": {
     "noon": {
       "name": "نون",
@@ -398,7 +398,7 @@
           "active": true
         },
         {
-          "code": "F34",
+          "code": "T74",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -424,7 +424,7 @@
           "active": true
         },
         {
-          "code": "F18",
+          "code": "F34",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -437,7 +437,7 @@
           "active": true
         },
         {
-          "code": "T74",
+          "code": "F18",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
