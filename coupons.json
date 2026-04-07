@@ -1,5 +1,5 @@
 {
-  "version": "1.1.71",
+  "version": "1.1.72",
   "last_updated": "2026-04-07",
   "stores": {
     "noon": {
@@ -243,6 +243,19 @@
         },
         {
           "code": "rAgent",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Interest",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -873,6 +886,19 @@
           "active": true
         },
         {
+          "code": "Instead",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على أمازون السعودية",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "Deals",
           "discount": "10%",
           "type": "percentage",
@@ -939,6 +965,32 @@
         },
         {
           "code": "rAgent",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على أمازون السعودية",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Amazon",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على أمازون السعودية",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Price",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
