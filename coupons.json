@@ -1,6 +1,6 @@
 {
-  "version": "1.1.78",
-  "last_updated": "2026-04-10",
+  "version": "1.1.79",
+  "last_updated": "2026-04-11",
   "stores": {
     "noon": {
       "name": "نون",
@@ -294,6 +294,19 @@
           "active": true
         },
         {
+          "code": "N15",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "SIA",
           "discount": "10%",
           "type": "percentage",
@@ -516,19 +529,6 @@
         },
         {
           "code": "Y53",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "NGO",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
