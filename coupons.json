@@ -1,5 +1,5 @@
 {
-  "version": "1.1.103",
+  "version": "1.1.104",
   "last_updated": "2026-04-23",
   "stores": {
     "noon": {
@@ -1433,6 +1433,227 @@
           "active": true
         },
         {
+          "code": "URIComponent",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Data",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Pop",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "PopLoad",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Codes",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "WITH",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Grid",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Code",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Deals",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "getDeal",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "bSups",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "operatingSystem",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Almowafir",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "inLanguage",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "rAgent",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "rIdZaraz",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "rId",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على جرير",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "Australia",
           "discount": "10%",
           "type": "percentage",
@@ -1499,19 +1720,6 @@
         },
         {
           "code": "Follow",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على جرير",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "Codes",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
