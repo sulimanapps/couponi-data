@@ -1,5 +1,5 @@
 {
-  "version": "1.1.133",
+  "version": "1.1.134",
   "last_updated": "2026-05-08",
   "stores": {
     "noon": {
@@ -294,6 +294,19 @@
           "active": true
         },
         {
+          "code": "BIG",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "A55",
           "discount": "10%",
           "type": "percentage",
@@ -386,19 +399,6 @@
         },
         {
           "code": "B15",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "BIG",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
