@@ -1,6 +1,6 @@
 {
-  "version": "1.1.134",
-  "last_updated": "2026-05-08",
+  "version": "1.1.135",
+  "last_updated": "2026-05-09",
   "stores": {
     "noon": {
       "name": "نون",
@@ -307,6 +307,19 @@
           "active": true
         },
         {
+          "code": "G15",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "A55",
           "discount": "10%",
           "type": "percentage",
@@ -516,19 +529,6 @@
         },
         {
           "code": "x51",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "A40",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
