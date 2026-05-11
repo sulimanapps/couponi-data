@@ -1,5 +1,5 @@
 {
-  "version": "1.1.139",
+  "version": "1.1.140",
   "last_updated": "2026-05-11",
   "stores": {
     "noon": {
@@ -294,7 +294,7 @@
           "active": true
         },
         {
-          "code": "BIG",
+          "code": "G15",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -307,7 +307,7 @@
           "active": true
         },
         {
-          "code": "G15",
+          "code": "BIG",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
