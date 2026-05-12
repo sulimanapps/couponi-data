@@ -1,5 +1,5 @@
 {
-  "version": "1.1.141",
+  "version": "1.1.142",
   "last_updated": "2026-05-12",
   "stores": {
     "noon": {
@@ -990,7 +990,7 @@
           "active": true
         },
         {
-          "code": "Almowafir",
+          "code": "rAgent",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -1003,7 +1003,7 @@
           "active": true
         },
         {
-          "code": "rAgent",
+          "code": "Almowafir",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
