@@ -1,5 +1,5 @@
 {
-  "version": "1.1.155",
+  "version": "1.1.156",
   "last_updated": "2026-05-19",
   "stores": {
     "noon": {
@@ -294,6 +294,19 @@
           "active": true
         },
         {
+          "code": "184",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "G15",
           "discount": "10%",
           "type": "percentage",
@@ -516,19 +529,6 @@
         },
         {
           "code": "500",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "x51",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
