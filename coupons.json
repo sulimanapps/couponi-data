@@ -1,6 +1,6 @@
 {
-  "version": "1.1.164",
-  "last_updated": "2026-05-23",
+  "version": "1.1.165",
+  "last_updated": "2026-05-24",
   "stores": {
     "noon": {
       "name": "نون",
@@ -151,7 +151,7 @@
           "active": true
         },
         {
-          "code": "TypeFilter",
+          "code": "Stats",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -164,7 +164,7 @@
           "active": true
         },
         {
-          "code": "Stats",
+          "code": "FIRST15",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -502,7 +502,7 @@
           "active": true
         },
         {
-          "code": "F34",
+          "code": "T74",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -528,7 +528,7 @@
           "active": true
         },
         {
-          "code": "F18",
+          "code": "F34",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -541,7 +541,7 @@
           "active": true
         },
         {
-          "code": "T74",
+          "code": "F18",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
