@@ -1,5 +1,5 @@
 {
-  "version": "1.1.211",
+  "version": "1.1.212",
   "last_updated": "2026-06-16",
   "stores": {
     "noon": {
@@ -372,19 +372,6 @@
           "active": true
         },
         {
-          "code": "JHI",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
           "code": "d25",
           "discount": "10%",
           "type": "percentage",
@@ -554,6 +541,19 @@
           "active": true
         },
         {
+          "code": "JHI",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "Australia",
           "discount": "10%",
           "type": "percentage",
@@ -672,19 +672,6 @@
         },
         {
           "code": "True",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "Expires",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
