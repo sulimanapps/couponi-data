@@ -1,6 +1,6 @@
 {
-  "version": "1.1.216",
-  "last_updated": "2026-06-18",
+  "version": "1.1.217",
+  "last_updated": "2026-06-19",
   "stores": {
     "noon": {
       "name": "نون",
@@ -151,7 +151,7 @@
           "active": true
         },
         {
-          "code": "Stats",
+          "code": "Extra",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -164,7 +164,7 @@
           "active": true
         },
         {
-          "code": "FIRST15",
+          "code": "Stats",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -359,6 +359,19 @@
           "active": true
         },
         {
+          "code": "V66",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "612",
           "discount": "10%",
           "type": "percentage",
@@ -516,19 +529,6 @@
         },
         {
           "code": "T15",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "T70",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
