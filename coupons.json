@@ -1,5 +1,5 @@
 {
-  "version": "1.1.253",
+  "version": "1.1.254",
   "last_updated": "2026-07-07",
   "stores": {
     "noon": {
@@ -346,7 +346,46 @@
           "active": true
         },
         {
-          "code": "B15",
+          "code": "IVA",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "S10",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "S20",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "BIG",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -489,19 +528,6 @@
           "active": true
         },
         {
-          "code": "BIG",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
           "code": "N15",
           "discount": "10%",
           "type": "percentage",
@@ -516,32 +542,6 @@
         },
         {
           "code": "IME",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "T10",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "t50",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -685,6 +685,19 @@
         },
         {
           "code": "True",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Save",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
