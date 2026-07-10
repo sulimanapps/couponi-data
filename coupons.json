@@ -1,6 +1,6 @@
 {
-  "version": "1.1.258",
-  "last_updated": "2026-07-09",
+  "version": "1.1.259",
+  "last_updated": "2026-07-10",
   "stores": {
     "noon": {
       "name": "نون",
@@ -333,7 +333,7 @@
           "active": true
         },
         {
-          "code": "M10",
+          "code": "200",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
