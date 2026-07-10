@@ -1,5 +1,5 @@
 {
-  "version": "1.1.259",
+  "version": "1.1.260",
   "last_updated": "2026-07-10",
   "stores": {
     "noon": {
@@ -307,7 +307,7 @@
           "active": true
         },
         {
-          "code": "A55",
+          "code": "SIA",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -320,7 +320,7 @@
           "active": true
         },
         {
-          "code": "SIA",
+          "code": "A55",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
