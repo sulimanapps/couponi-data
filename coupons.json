@@ -1,5 +1,5 @@
 {
-  "version": "1.1.269",
+  "version": "1.1.270",
   "last_updated": "2026-07-15",
   "stores": {
     "noon": {
@@ -307,6 +307,19 @@
           "active": true
         },
         {
+          "code": "B15",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "SIA",
           "discount": "10%",
           "type": "percentage",
@@ -529,19 +542,6 @@
         },
         {
           "code": "9T1",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "4V1",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
