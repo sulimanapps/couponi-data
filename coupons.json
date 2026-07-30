@@ -1,5 +1,5 @@
 {
-  "version": "1.1.299",
+  "version": "1.1.300",
   "last_updated": "2026-07-30",
   "stores": {
     "noon": {
@@ -307,6 +307,19 @@
           "active": true
         },
         {
+          "code": "368",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "388",
           "discount": "10%",
           "type": "percentage",
@@ -333,19 +346,6 @@
           "active": true
         },
         {
-          "code": "368",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
           "code": "B15",
           "discount": "10%",
           "type": "percentage",
@@ -360,6 +360,19 @@
         },
         {
           "code": "SIA",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "T54",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -529,19 +542,6 @@
         },
         {
           "code": "IVA",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "S10",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
