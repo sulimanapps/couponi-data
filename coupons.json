@@ -1,5 +1,5 @@
 {
-  "version": "1.1.301",
+  "version": "1.1.302",
   "last_updated": "2026-07-31",
   "stores": {
     "noon": {
@@ -294,19 +294,6 @@
           "active": true
         },
         {
-          "code": "E10",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
           "code": "368",
           "discount": "10%",
           "type": "percentage",
@@ -373,6 +360,19 @@
         },
         {
           "code": "T54",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "E10",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
