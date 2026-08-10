@@ -1,5 +1,5 @@
 {
-  "version": "1.1.320",
+  "version": "1.1.321",
   "last_updated": "2026-08-10",
   "stores": {
     "noon": {
@@ -372,7 +372,7 @@
           "active": true
         },
         {
-          "code": "SIA",
+          "code": "E15",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
