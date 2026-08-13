@@ -1,5 +1,5 @@
 {
-  "version": "1.1.326",
+  "version": "1.1.327",
   "last_updated": "2026-08-13",
   "stores": {
     "noon": {
@@ -320,319 +320,7 @@
           "active": true
         },
         {
-          "code": "368",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "388",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "T13",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "B15",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "ISA",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "300",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "E15",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "S15",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "S10",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "T54",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "E10",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "LL9",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "T15",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "200",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "der",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "J90",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "OYS",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "TEM",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "326",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "130",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "Australia",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "Canada",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "Deutschland",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "France",
-          "discount": "10%",
-          "type": "percentage",
-          "max_discount_sar": 100,
-          "min_order_sar": 0,
-          "description": "خصم على نون",
-          "categories": [
-            "all"
-          ],
-          "new_users_only": false,
-          "active": true
-        },
-        {
-          "code": "Polska",
+          "code": "true",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -684,7 +372,7 @@
           "active": true
         },
         {
-          "code": "List",
+          "code": "membershipPopup",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -697,7 +385,124 @@
           "active": true
         },
         {
-          "code": "True",
+          "code": "cantFindCode",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "customerService",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "inputLabel",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "copyButtonLabel",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "copyCode",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "offerModal",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "NeededInfo",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "CtaText",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "tweetTemplate",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "List",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -736,6 +541,19 @@
           "active": true
         },
         {
+          "code": "BSi2TVnj",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
           "code": "Isn",
           "discount": "10%",
           "type": "percentage",
@@ -749,7 +567,7 @@
           "active": true
         },
         {
-          "code": "United",
+          "code": "requestCode",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
@@ -762,7 +580,7 @@
           "active": true
         },
         {
-          "code": "Terms",
+          "code": "rContext",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
