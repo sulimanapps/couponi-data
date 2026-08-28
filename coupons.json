@@ -1,5 +1,5 @@
 {
-  "version": "1.1.355",
+  "version": "1.1.356",
   "last_updated": "2026-08-28",
   "stores": {
     "noon": {
@@ -529,6 +529,19 @@
         },
         {
           "code": "List",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Save",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
