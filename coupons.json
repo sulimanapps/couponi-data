@@ -1,6 +1,6 @@
 {
-  "version": "1.1.359",
-  "last_updated": "2026-08-29",
+  "version": "1.1.360",
+  "last_updated": "2026-08-30",
   "stores": {
     "noon": {
       "name": "نون",
@@ -529,6 +529,19 @@
         },
         {
           "code": "List",
+          "discount": "10%",
+          "type": "percentage",
+          "max_discount_sar": 100,
+          "min_order_sar": 0,
+          "description": "خصم على نون",
+          "categories": [
+            "all"
+          ],
+          "new_users_only": false,
+          "active": true
+        },
+        {
+          "code": "Score",
           "discount": "10%",
           "type": "percentage",
           "max_discount_sar": 100,
